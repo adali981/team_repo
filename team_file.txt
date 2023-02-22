@@ -1,11 +1,1 @@
-anna aggiunge la prima riga
-<<<<<<< HEAD
-Elkadia
-=======
-maria sole aggiunge la seconda riga
->>>>>>> c3f78043bd764e0a85bcbb13beab8d2ce91ca1f7
-<<<<<<< HEAD
-Irene aggiunge riga
-=======
-Claudicanti gattini
->>>>>>> 17080d69785c708ea18dbc67b85a7c40929fd03b
+anna rimuove tutto
